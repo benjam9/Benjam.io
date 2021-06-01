@@ -1,0 +1,11 @@
+//Light mode
+light tan: fffbed
+tan: fff8e3
+light red: ff7c4d
+red: ff5619
+
+//Dark mode
+maroon: b54016
+maroon 2: a82d00
+brown: 5e1a01
+black red: 380f00
